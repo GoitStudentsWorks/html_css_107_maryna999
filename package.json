@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/premium-watches/",
+    "build": "vite build --base=/html_css_107_maryna999/",
     "preview": "vite preview"
   },
   "devDependencies": {
